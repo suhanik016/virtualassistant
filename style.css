@@ -57,10 +57,10 @@ h1{
     box-shadow: 2px 2px 16px rgb(105, 198, 241),2px 2px 16px rgb(6, 175, 253);
 }
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 480px) {
     #logo {
-        width: 25vw;
-        height: 30vh;
+        width: 40vw;
+        height: 25vh;
     }
     #btn {
         width: 50%;
@@ -81,6 +81,7 @@ h1{
         color: rgb(105, 198, 241);
         font-size: 30px;
     }
+    
 
 }
   
